@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+# Copyright 2019 Mike Bergmann
+# Released under the MIT License 
+
 import argparse
 import sys
 import networkx as nx
