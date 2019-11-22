@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Copyright 2019 Mike Bergmann
+# Released under the MIT License 
+
 set -e
 set -u
 set -o pipefail
