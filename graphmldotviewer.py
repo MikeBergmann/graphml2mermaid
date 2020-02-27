@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# Copyright 2019 Mike Bergmann
+# Copyright 2019 Mike Bergmann, mike@mdb977.de
 # Released under the MIT License 
 
 import argparse
